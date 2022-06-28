@@ -1,0 +1,1 @@
+gcc -D MAIN -g new-decode.c ./metrohash-c/src/metrohash64.c -o decode
